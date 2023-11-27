@@ -3,6 +3,6 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 
-title: Tech4Tech
+title: Avança-TI
 logo: /assets/img/logo.png
 description: Estudos em Gestão e Tecnologia.
