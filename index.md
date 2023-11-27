@@ -9,7 +9,7 @@ Você é apaixonado por tecnologia?  Deseja moldar o futuro da TI?
 O Programa de Estudos Avança-TI tem como objetivo estimular o (auto)aprendizado de tópicos relacionados a Gestão e Tecnologia. A iniciativa está baseada em Trilhas de Aprendizado (Roadmaps), que combinam tópicos/tecnologias relacionadas e utilizadas no desenvolvimento de sistemas contemporâneos.
 
 
-> Esta iniciativa é um **complemento**à sua formação e **não substitui as Unidades Curriculares** do seu curso 
+> Esta iniciativa é um **complemento** à sua formação e **não substitui as Unidades Curriculares** do seu curso 
 
 
 # Iniciativa
@@ -33,7 +33,12 @@ Perfeito para:
 
 # Funcionamento
 
-📝 Inscrições Abertas! Vagas limitadas para garantir uma experiência de aprendizado de qualidade.
+📝 Inscrições Abertas! 
+
+Vagas limitadas para garantir uma experiência de aprendizado de qualidade.
+
+Inscreva-se aqui => [LINK](https://forms.gle/xCnw6GswQfb1c1mL6)
+
 
 --TBD--
 
