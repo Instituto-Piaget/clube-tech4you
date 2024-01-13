@@ -41,13 +41,13 @@ TBD
    Existem vários vídeos do Youtube como:
 
    Em inglês:
-   - HTML&CSS => https://youtu.be/Aj7HLsJenVg?si=gWjyy_G0pOfM8tpZ
-   - HTML => https://youtu.be/kUMe1FH4CHE?si=CKCtAt7oy5aGnrcf
-   - HTML, CSS e JS = > https://youtu.be/zJSY8tbf_ys?si=3BRcqXQxtnmqHgia
+   - HTML&CSS => <https://youtu.be/Aj7HLsJenVg?si=gWjyy_G0pOfM8tpZ>
+   - HTML => <https://youtu.be/kUMe1FH4CHE?si=CKCtAt7oy5aGnrcf>
+   - HTML, CSS e JS = > <https://youtu.be/zJSY8tbf_ys?si=3BRcqXQxtnmqHgia>
 
    Em Português:
-   - JS => https://youtu.be/OYPbr6ZG3pc?si=7Ssrj3sSGMSWi8hl
-   - HTML, CSS => https://youtu.be/yvCAX68TJMc?si=lQXlHQ1iKnQ-kW2b
+   - JS => <https://youtu.be/OYPbr6ZG3pc?si=7Ssrj3sSGMSWi8hl>
+   - HTML, CSS => <https://youtu.be/yvCAX68TJMc?si=lQXlHQ1iKnQ-kW2b>
 
 
 
